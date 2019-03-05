@@ -1,2 +1,7 @@
 packing list 
 --shoes
+Coat
+Picnic
+Umbrella
+Bread
+Juice
